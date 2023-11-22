@@ -843,6 +843,10 @@
     (uuid be273917-952a-4a78-9231-6339a6f16220)
   )
 
+  (hierarchical_label "VPACK" (shape input) (at 128.27 55.88 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 88c047cf-abfd-487e-80c6-24617439c0ed)
+  )
   (hierarchical_label "3v3" (shape input) (at 201.295 55.245 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e3f8f62f-86f2-47b8-9a5f-a164d60f14d0)
